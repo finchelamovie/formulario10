@@ -1,0 +1,15 @@
+body {font-family: sans-serif}
+
+#contenedor {width: 1000px; margin: 0px auto; border: 5px solid black; margin-top: 100px; background: white}
+
+header {background: black; color: white; text-align: center; line-height: 65px}
+
+section {text-align: center;}
+
+form {text-align: center;}
+
+#section1 {text-align: center;}
+
+footer {line-height: 60px; background: black; color: white; text-align: center; font-weight: bold;}
+
+body {background: url(2000334-bigthumbnail.jpg)}
